@@ -1,0 +1,46 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Software",
+      "value": 1000,
+      "date": "2017-01-01 00:00:00",
+      "category": "Venda",
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "description": "Freelance Design Work",
+      "value": 500,
+      "date": "2017-02-15 10:30:00",
+      "category": "Freelance",
+      "type": "income"
+    },
+    {
+      "id": 3,
+      "description": "Rent Payment",
+      "value": 800,
+      "date": "2017-03-01 12:00:00",
+      "category": "Housing",
+      "type": "outcome"
+    },
+    {
+      "description": "Samsung S22",
+      "price": 2200,
+      "category": "Celular",
+      "type": "outcome",
+      "value": 2200,
+      "date": "2024-06-25T15:01:32.290Z",
+      "id": 4
+    },
+    {
+      "description": "Salário",
+      "price": 6900,
+      "category": "Salário",
+      "type": "income",
+      "value": 6900,
+      "date": "2024-06-25T15:06:04.098Z",
+      "id": 5
+    }
+  ]
+}
